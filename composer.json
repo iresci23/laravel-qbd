@@ -1,0 +1,11 @@
+{
+    "name": "iresci23/laravel-qbd",
+    "description": "Integrate your laravel app to Quickbooks Desktop",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ire Satamh",
+            "email": "irelenecosicol@gmail.com"
+        }
+    ]
+}

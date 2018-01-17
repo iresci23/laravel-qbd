@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<QBWCXML>
+	<AppName>Lara QDB</AppName>
+	<AppID></AppID>
+	<AppURL>http://localhost/erp-v3/public/qbd-connector/qbwc</AppURL>
+	<AppDescription>Laravel QuickBooks Demo</AppDescription>
+	<AppSupport>http://localhost/erp-v3/public/qbd-connector/qbwc</AppSupport>
+	<UserName>quickbooks</UserName>
+	<OwnerID>{3679a403-4ccf-24f4-5527-f7c0bfaa80eb}</OwnerID>
+	<FileID>{50693eb9-6a28-e6c4-add2-591b671fc440}</FileID>
+	<QBType>QBFS</QBType>
+	<Notify>false</Notify>
+	<Scheduler>
+		<RunEveryNMinutes>10</RunEveryNMinutes>
+	</Scheduler>
+	<IsReadOnly>false</IsReadOnly>
+</QBWCXML>

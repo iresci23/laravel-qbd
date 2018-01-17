@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<QBWCXML>
+	<AppName>Lara QBD</AppName>
+	<AppID>0097</AppID>
+	<AppURL>http://localhost/laravel-vue-kanban/public/qbd/qbwc</AppURL>
+	<AppDescription>Lara QBD Desc</AppDescription>
+	<AppSupport>http://localhost/laravel-vue-kanban/public/qbd/qbwc</AppSupport>
+	<UserName>quickbooks</UserName>
+	<OwnerID>{90A44FB7-33D9-4815-AC85-AC86A7E7D1EF}</OwnerID>
+	<FileID>{57F3B9B6-86F1-4FCC-B1FF-967DE1813D29}</FileID>
+	<QBType>QBFS</QBType>
+	<Scheduler>
+		<RunEveryNMinutes>5</RunEveryNMinutes>
+	</Scheduler>
+	<IsReadOnly>false</IsReadOnly>
+</QBWCXML>

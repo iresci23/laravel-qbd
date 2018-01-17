@@ -1,0 +1,26 @@
+http://www.consolibyte.com/docs/index.php/QuickBooks_Web_Connector_Overview#Do_You_Really_Need_an_SSL_Certificate.3F
+
+
+=== installation of the package ===
+1. composer require consolibyte/quickbooks
+2. add in autoload psr4
+
+        "psr-4": {
+            "App\\": "app/",
+            "Iresci23\\LaravelQbd\\": "packages/iresci23/laravel-qbd/src"
+        }
+3. Add in config/app.php service provider
+
+        Iresci23\LaravelQbd\LaravelQbdServiceProvider::class,
+
+4. add .env info
+QB_DSN=
+QB_USERNAME=quickbooks
+QB_PASSWORD=password
+QB_TIMEZONE=America/New_York
+QB_LOGLEVEL=QUICKBOOKS_LOG_DEVELOP
+QB_MEMLIMIT=512M
+QB_SOAPSERVER=QUICKBOOKS_SOAPSERVER_BUILTIN
+
+5. Access
+http://{your domain}/qbd/qbwc
