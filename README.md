@@ -1,5 +1,5 @@
 # Laravel QBD
-I've been searching how to integrate QB Web connector with Laravel 5.x but coudn't find any. So I made this example package if ever you are in the same situation as I was. Feel free to clone/copy and modify it however you like.
+I've been searching how to integrate QB Web connector with Laravel 5.x but coudn't find any. So I made this example package for you if ever you are in the same situation as I was. Feel free to clone/copy and modify it however you like.
 
 ## Getting Started
 These instructions will get you a copy of the package up and running on your local machine for development and testing purposes.
