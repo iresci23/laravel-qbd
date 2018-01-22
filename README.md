@@ -1,8 +1,8 @@
 # Laravel QBD
-This is a Laravel 5.x package for integration of QuickBooks for Windows (Web Connector). This package is currently in development but you can use it as kick start or modify it however you like.
+I've been searching how to integrate QB Web connector with Laravel 5.x but coudn't find any. So I made this example package if ever you are in the same situation as I was. Feel free to clone/copy and modify it however you like.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the package up and running on your local machine for development and testing purposes.
 
 If you are not yet familiar with QB Web Connector, visit [this](https://github.com/consolibyte/quickbooks-php) for quick start guides
 
